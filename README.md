@@ -1,2 +1,4 @@
-# PH-N-T-CH-THI-T-K-TRI-N-KHAI-H-TH-NG-M-NG
+# Phân tích thiết  kế hệ thống mạng 
 PHAN TICH 
+# Tài Liệu bài tập 
+- [ Tài liệu ] ( https://drive.google.com/drive/folders/1NCGSQtuWcSF9JNBJoUDd_JwWMhwlvZg5?usp=sharing ) 
